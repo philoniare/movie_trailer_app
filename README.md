@@ -5,4 +5,4 @@ for listing fetched movies
 
 ### How to run:
 Run in terminal the following:
-    python main.py
+```$ python main.py```
